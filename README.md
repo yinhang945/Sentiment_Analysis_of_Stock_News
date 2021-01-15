@@ -30,7 +30,7 @@ Electric vehicle stocks are hot, as growing numbers of investors come to recogni
 Access to the most up-to-date information is vital to any investing strategy. I used BeautifulSoup to parse the news headline and timestamp for stock NIO, XPEV and LI from Finviz, a website offers interactive graphs, fundamental ratios and financial news.etc. 
 
 <p align="left">
-<img src="img/finviz.png" width="800" height="400">
+<img src="img/screen.png" width="800" height="400">
 </p>
 
 The news headline and timestamp was parsed from the Website and stored in pandas dataframe. Then I cleaned the news headline by removing stopwords, punctuations.etc.
