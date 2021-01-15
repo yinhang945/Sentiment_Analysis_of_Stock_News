@@ -58,7 +58,7 @@ After getting the sentiment score, I would like to see if there is any correlati
 For those who are not familiar with candlestick chart, the following image will be a good explaination of how it works. Basically a green candle means bullish price movement and a red candle means bearish price movement.
 
 <p align="left">
-<img src="img/candle.png" width="800" height="400">
+<img src="img/candle.png" width="600" height="400">
 </p>
 
 ## Sentiment Score vs Stock Price Change
